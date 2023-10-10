@@ -8,25 +8,20 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\scott\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\scott\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\scott\\Source\\Repos\\Selection-Statements-Exercise\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
+      "projectUniqueName": "C:\\Users\\scott\\source\\repos\\Selection-Statements-Exercise\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
       "projectName": "SelectionStatementExercise",
-      "projectPath": "C:\\Users\\scott\\Source\\Repos\\Selection-Statements-Exercise\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
+      "projectPath": "C:\\Users\\scott\\source\\repos\\Selection-Statements-Exercise\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
       "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\scott\\Source\\Repos\\Selection-Statements-Exercise\\SelectionStatementExercise\\obj\\",
+      "outputPath": "C:\\Users\\scott\\source\\repos\\Selection-Statements-Exercise\\SelectionStatementExercise\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\scott\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
